@@ -415,7 +415,7 @@ class Description extends StatelessWidget {
                           left: 23 * fem,
                           top: 562 * fem,
                           child: IconButton(
-                            iconSize: 100,
+                            iconSize: 40,
                             icon: const Icon(Icons.arrow_back),
                             onPressed: () => {
                               Navigator.push(
